@@ -1,0 +1,19 @@
+body 
+            {
+                background-color: cyan ;"
+            }
+h1          {
+            color: brown;
+            }
+
+h3          {
+            color: brown;
+            }
+ hr
+            {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 2px;
+            width: 5%;
+             }
